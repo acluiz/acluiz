@@ -20,7 +20,9 @@
 
 [![acluiz](https://github-readme-stats.vercel.app/api/top-langs/?username=acluiz&hide=html&layout=compact&theme=tokyonight)](https://github.com/acluiz/)
 
-![acluiz's github stats](https://github-readme-stats.vercel.app/api?username=acluiz&show_icons=true&theme=tokyonight) ![acluiz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acluiz&theme=tokyonight)
+![acluiz's github stats](https://github-readme-stats.vercel.app/api?username=acluiz&show_icons=true&theme=tokyonight)
+
+![acluiz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acluiz&theme=tokyonight)
 
 </br>
 
