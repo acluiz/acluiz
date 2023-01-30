@@ -28,7 +28,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-<a href="https://github.com/acluiz"><img alt="acluiz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=acluiz&custom_title=acluiz's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/acluiz"><img alt="acluiz's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ACLuiz&theme=tokyo-night" /></a>
 <br/>
 
 <br/>
