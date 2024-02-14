@@ -1,11 +1,7 @@
-## 👋  Hello, World! I'm Ana Luiz</strong>
+# 👋  Hello, World! I'm Ana Luiz
 
 >  I'm a <strong>Full-stack developer</strong> focused on <strong>front-end</strong>.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<br/>
-<summary><b>My current skills</b></summary>
 <br/>
 
 <div>
@@ -24,16 +20,16 @@
   <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-<br/><br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![acluiz](https://github-readme-stats.vercel.app/api/top-langs/?username=acluiz&hide=html&layout=compact&theme=tokyonight)](https://github.com/acluiz/)
-![acluiz's github stats](https://github-readme-stats.vercel.app/api?username=acluiz&show_icons=true&theme=tokyonight)
-![acluiz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acluiz&theme=tokyonight)
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=acluiz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=acluiz&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=acluiz&theme=tokyonight&hide_border=true&background=FFFFFF00">
+</p>
 <br/>
 
-<summary><b>Social media</b></summary>
-<br/>
-<p align="left">
+<h2>Social media</h2>
 <a href="https://www.linkedin.com/in/ana-luiz-6b5737168/" target="_blank" alt="Linkedin Badge">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-luiz-6b5737168/" /></a>
